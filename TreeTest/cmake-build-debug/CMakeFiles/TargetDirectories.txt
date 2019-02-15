@@ -1,0 +1,3 @@
+D:/Clion file/C/TreeTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Clion file/C/TreeTest/cmake-build-debug/CMakeFiles/TreeTest.dir
+D:/Clion file/C/TreeTest/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion file/C/Hello World/LinearTable.c
+malloc.h
+-
+stdio.h
+-
+mem.h
+-
+LinearTable.h
+D:/Clion file/C/Hello World/LinearTable.h
+
+D:/Clion file/C/Hello World/LinearTable.h
+
+D:/Clion file/C/Hello World/main.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+mem.h
+-
+LinearTable.h
+D:/Clion file/C/Hello World/LinearTable.h
+

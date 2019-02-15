@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion file/C/TreeTest/TreeTest.h
+stddef.h
+-
+stdio.h
+-
+
+D:/Clion file/C/TreeTest/main.c
+stdio.h
+-
+stdlib.h
+-
+mem.h
+-
+TreeTest.h
+D:/Clion file/C/TreeTest/TreeTest.h
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion file/C/AdjacencyTest/Adjacency.c
+Adjacency.h
+D:/Clion file/C/AdjacencyTest/Adjacency.h
+Queue.h
+D:/Clion file/C/AdjacencyTest/Queue.h
+stdio.h
+-
+malloc.h
+-
+mem.h
+-
+
+D:/Clion file/C/AdjacencyTest/Adjacency.h
+stdlib.h
+-
+
+D:/Clion file/C/AdjacencyTest/Queue.h
+stddef.h
+-
+Adjacency.h
+D:/Clion file/C/AdjacencyTest/Adjacency.h
+

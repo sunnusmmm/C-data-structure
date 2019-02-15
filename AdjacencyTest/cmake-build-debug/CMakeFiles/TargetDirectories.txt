@@ -1,0 +1,3 @@
+D:/Clion file/C/AdjacencyTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Clion file/C/AdjacencyTest/cmake-build-debug/CMakeFiles/AdjacencyTest.dir
+D:/Clion file/C/AdjacencyTest/cmake-build-debug/CMakeFiles/edit_cache.dir

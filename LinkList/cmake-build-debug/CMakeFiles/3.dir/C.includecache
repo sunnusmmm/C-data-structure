@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion file/C/3/LinkList.h
+
+D:/Clion file/C/3/main.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+mem.h
+-
+LinkList.h
+D:/Clion file/C/3/LinkList.h
+
